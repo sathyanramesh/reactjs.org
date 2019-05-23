@@ -1,5 +1,5 @@
 ---
-id: tutorial
+id: tutorial 
 title: "Tutorial: Intro to React"
 layout: tutorial
 sectionid: tutorial
